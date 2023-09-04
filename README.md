@@ -1,13 +1,5 @@
 # sqlite
 
-
-Code documntation to make this project : https://medium.com/@gopikaprabhu020/building-a-sqlite-flutter-to-do-list-app-35e8313d0d49
-
-https://github.com/gopikarp/todo_sqlite/assets/100861026/96f9d9e2-d0fc-455d-8397-94499533291f
-
-
-
-
 Full Docunmentation for the code : https://medium.com/@gopikaprabhu020/building-a-sqlite-flutter-to-do-list-app-35e8313d0d49
 
 
